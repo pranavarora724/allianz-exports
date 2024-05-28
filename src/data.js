@@ -2,22 +2,22 @@
 export const gridData = [
     {
         name:'Historical Intradata Charts',
-        url:'https://www.unfluke.in/static/media/f1.e33baefd.jpg',
+        url:'/pics/pic1.jpg',
         description:'Get historical intraday charts of Equity, Futures and Options.',
     } ,
     {
         name:'Historical Scanner',
-        url:'https://www.unfluke.in/static/media/f3.3df99212.jpg',
+        url:'/pics/pic2.jpg',
         description:'Check scanner results using a combination of different indicators and time frames. '
     } ,
     {
         name:'Backtest Stratergy' ,
-        url:'https://www.unfluke.in/static/media/f5.f9f7e727.jpg',
+        url:'/pics/pic3.jpg',
         description:'Test your Algo Strategy on years of data in seconds, realistic results with slippages & brokerage included.'
     },
     {
         name:'Advance Backtest Stratergy',
-        url:'https://www.unfluke.in/static/media/f5.f9f7e727.jpg',
+        url:'/pics/pic4.jpg',
         description:'Simulate strategies over 7 years of historical data. Play, learn, improve!'
     }
 ]

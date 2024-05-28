@@ -57,7 +57,7 @@ function hero_section() {
 
                    {/* Right side */}
                     <div className="p-4 bg-gradient-to-br max-w-[600px] mb-[20px] md:mb-0 mt-14 md:mt-0 w-[80%] md:w-[50%] from-blue-400 to-blue-100 rounded-2xl">
-                        <img className="w-[100%]  rounded-2xl" src="https://www.unfluke.in/static/media/f1.e33baefd.jpg"></img>
+                        <img className="w-[100%]  rounded-2xl" src="/pics/pic1.jpg"></img>
                     </div>
 
                     <div>

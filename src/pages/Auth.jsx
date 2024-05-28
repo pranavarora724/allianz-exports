@@ -63,7 +63,7 @@ function Auth()
                                
                             </div>
 
-                            <NavLink to={'/'}>
+                            <NavLink to={'/dashboard'}>
                            <div className="mt-5">
                               <div className="bg-blue-500 text-white px-14 py-1 w-fit mx-auto cursor-pointer">Log In</div>
                            </div>
@@ -158,7 +158,7 @@ function Auth()
                                
                             </div>
 
-                           <NavLink to={'/'}>
+                           <NavLink to={'/dashboard'}>
                            <div className="mt-5">
                               <div className="bg-blue-500 text-white px-14 py-1 w-fit mx-auto cursor-pointer">Get OTP</div>
                            </div>

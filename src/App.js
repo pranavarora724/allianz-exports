@@ -9,6 +9,7 @@ import { Route } from 'react-router-dom';
 import { Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import Auth from './pages/Auth';
+import Dashboard from './pages/Dashboard';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Routes>
          <Route path='/' element={<Home></Home>}></Route>
          <Route path='/auth' element={<Auth></Auth>}></Route>
+         <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
       </Routes>
      
     </div>

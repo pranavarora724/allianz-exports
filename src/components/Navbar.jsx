@@ -45,12 +45,14 @@ function Navbar()
                 <div className=" hidden md:flex md:flex-row gap-x-7 items-center">
                     
                     {/* HOME */}
+                    <NavLink to={'/'}>
                     <div className="group flex flex-col justify-between items-center gap-y-4">
                         <div className="w-[full] h-1 group-hover:bg-blue-700"></div>
                         <div className="text-blue-700 cursor-pointer font-semibold">Home</div>
                         <div className="w-[100%] h-1 group-hover:bg-blue-700"></div>
                     </div>
 
+                    </NavLink>
                     {/* ABOUT */}
                     <div className="group flex flex-col justify-between items-center gap-y-4">
                         <div className="w-[100%] h-1"></div>
